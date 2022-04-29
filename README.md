@@ -8,7 +8,7 @@
 - 🎓 Ecole des Ponts ParisTech - 1st year / 2nd year in Mathematics and Informatics. (3rd and 4th year after high school)
 - 📚 Preparatory school: Lycée saint louis - MPSI / MP*. (1st and 2nd year after high school)
 
-You can find my CV [here][].
+You can find my CV [here][CV].
 
 ## Connect with me:
 
@@ -18,6 +18,6 @@ You can find my CV [here][].
 <br />
 <br />
 
-[CV]: https://drive.google.com/file/d/1qtkKtlYmI1bdCDYlAkX_-uVMYGFUTh08/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1iUwj8LeTfOT6yMuN0AlvPGbdBJUBr0Dt/view?usp=sharing
 [LinkedIn]: https://www.linkedin.com/in/samueldiai/
 [GoogleScolar]: https://scholar.google.com/citations?user=gqZ5aCMAAAAJ&hl=en
